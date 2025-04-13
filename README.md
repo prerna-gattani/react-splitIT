@@ -4,11 +4,11 @@
 A smart and simple web app that helps you split bills with friends, track expenses, and settle dues — hassle-free. Built with React and modern UI design principles.📊✨
 
 ## **🌟 Features:**
--✅ Split Expenses Easily – Add bills, select participants, and SplitIT does the math.
--👥 Group Support – Create groups for trips, events, or roommates.
--📊 Expense Summary – Know who owes whom and how much at a glance.
--🔔 Real-Time Updates – Instantly see balances update with each new entry.
--📱 Responsive Design – Works seamlessly across desktops, tablets, and phones.
+- ✅ Split Expenses Easily – Add bills, select participants, and SplitIT does the math.
+- 👥 Group Support – Create groups for trips, events, or roommates.
+- 📊 Expense Summary – Know who owes whom and how much at a glance.
+- 🔔 Real-Time Updates – Instantly see balances update with each new entry.
+- 📱 Responsive Design – Works seamlessly across desktops, tablets, and phones.
 
 ## **🌐 Live Demo:**
 You can see the live demo of this project at [Live Demo](https://prerna-gattani.github.io/react-splitIT/).
